@@ -1,0 +1,427 @@
+
+Supervisor → generator
+
+Generator running...
+
+Generated Article:
+
+FIFA Partners with UN to Promote Sustainability in Football
+
+Supervisor → evaluator
+
+Evaluator running...
+
+Evaluator Output:
+
+EVALUATION: needs_correction
+
+FEEDBACK:
+The headline “FIFA Partners with UN to Promote Sustainability in Football” suggests a formal, possibly high‑profile partnership between FIFA and the United Nations. The limited web excerpt provided does contain a few relevant points:
+
+* It notes that FIFA is the first international sports organisation to join **Climate Neutral Now**, a United Nations‑run initiative encouraging organisations to offset their carbon emissions.  
+* It mentions FIFA’s involvement in sustainability‑related programmes such as the **Qatar 2022 Legacy Fund** and the broader “Football Unites the World” umbrella, which are real FIFA‑led projects.
+
+These fragments confirm that FIFA has engaged with UN‑related climate and sustainability initiatives, but they do **not** demonstrate a new, formal partnership specifically announced to “promote sustainability in football.” No concrete details (e.g., a joint declaration, funding amounts, appointed UN liaison, or a specific program name) are supplied in the evidence. Consequently:
+
+* **Fabricated claims:** Any statements in the article that describe a newly signed, comprehensive partnership agreement, specific financial commitments, or newly created joint bodies are not substantiated by the provided evidence and are likely exaggerated or invented.  
+* **Fake names/events/statistics:** If the article cites particular UN officials, FIFA sustainability ambassadors, or quantitative targets (e.g., “$200 million pledged to green stadiums”) without external verification, those would be considered fabricated.  
+* **Unsupported statements:** The core claim of a partnership lacks direct citation; the evidence only shows FIFA’s participation in a UN‑run initiative, which is a weaker link than a formal partnership.
+
+Given the partial alignment (FIFA’s involvement with UN climate initiatives) but the absence of concrete proof for a new partnership, the article cannot be regarded as fully factual. It mixes a kernel of truth with likely overstated or unverified details.
+
+**Overall factuality:** The article is not fully accurate; it overstates the relationship between FIFA and the UN.
+
+CONFIDENCE:
+0.4
+
+Verdict: needs_correction
+Confidence: 0.4
+
+Supervisor → stopping_agent
+
+ Stopping agent running...
+
+Decision: continue
+Reason: The headline implies a formal partnership between FIFA and the UN, but the available evidence only shows FIFA’s participation in UN‑run initiatives (e.g., Climate Neutral Now) and its own sustainability programmes. This overstates the relationship, indicating a factual inaccuracy that requires further verification and correction.
+
+Supervisor → rectifier
+
+Rectifier running...
+
+Rectified Article:
+
+FIFA Engages with UN Climate Initiative and Partners with FIFPRO to Promote Sustainability and Player Representation in Football.
+
+Supervisor → evaluator
+
+Evaluator running...
+
+Evaluator Output:
+
+EVALUATION: needs_correction
+
+FEEDBACK:
+The article mixes verifiable information with several statements that are either inaccurate, mis‑named, or lack supporting evidence.
+
+**Supported / verifiable claims**
+- FIFA is a member of the UN Sports for Climate Action (UNSCA) network and has publicly highlighted sustainability since the 2010 South‑Africa World Cup.  
+- FIFPRO representatives do sit on various FIFA bodies (e.g., the Football Tribunal, standing committees, and the Human Rights & Sustainability Sub‑Committee). This has been reported in recent FIFA‑FIFPRO communications.  
+- Gianni Infantino has spoken about a new era of cooperation with FIFPRO and the need to protect players, which aligns with his public remarks in 2023‑2024.
+
+**Fabricated or misleading claims**
+1. **“Football for Climate Justice”** – The official FIFA‑UN initiative is called **“Football for Climate Action”**. The article’s use of “Justice” appears to be a mis‑naming rather than a distinct programme.  
+2. **“Athletes Act Now”** – The UN campaign is simply **“ActNow”**; there is no separate “Athletes Act Now” programme run by the UN.  
+3. **Specific MoU date (e.g., July 23 2025)** – No independent source confirms that a Memorandum of Understanding between FIFA and FIFPRO was signed on that exact date. Existing reports mention a 2022‑2023 agreement, but the 2025 date seems fabricated.  
+4. **“Jointly created a sustainable pathway”** – The article claims a concrete, jointly‑developed sustainability roadmap for decision‑making, but no public document or press release substantiates this specific framework.  
+5. **Repeated identical excerpts** – The web‑evidence snippets are duplicated (17 hours ago, 1 day ago) and appear to be auto‑generated summaries rather than independent news sources, reducing their reliability as verification.
+
+**Fake names/events/statistics**
+- No outright invented personal names were identified, but the mis‑named initiative (“Football for Climate Justice”) and the non‑existent “Athletes Act Now” campaign function as false entities within the article.
+
+**Unsupported statements**
+- The article asserts that the MoU “ensures that decisions directly affecting players are based on a collective process anchored in social dialogue.” While the sentiment matches FIFA‑FIFPRO rhetoric, no concrete policy document or procedural detail is cited to back this claim.  
+- The claim that clubs are “starting to take initiatives and use their immense influence … to promote sustainability” is a generic statement lacking specific examples or data.
+
+**Overall assessment**
+The piece contains a core of truth (FIFA’s UN climate involvement, FIFPRO representation on FIFA bodies, Infantino’s general remarks) but is interspersed with inaccurate naming, an unverified MoU date, and unsupported specifics. Consequently, the article cannot be considered fully factual.
+
+CONFIDENCE:
+0.62 (factual accuracy score)
+
+Verdict: needs_correction
+Confidence: 0.62
+
+Supervisor → stopping_agent
+
+ Stopping agent running...
+
+Decision: continue
+Reason: Confidence is moderate (0.62) and the article contains several significant factual inaccuracies and unsupported statements that still need correction.
+
+Supervisor → rectifier
+
+Rectifier running...
+
+Rectified Article:
+
+FIFA Enhances Collaboration with FIFPRO to Promote Player Representation and Sustainability in Football.
+
+Supervisor → evaluator
+
+Evaluator running...
+
+Evaluator Output:
+
+EVALUATION: needs_correction
+
+FEEDBACK:
+The article makes several specific claims about a new Memorandum of Understanding (MoU) between FIFA and FIFPRO that are not corroborated by any verifiable sources up to the current date.
+
+1. **Fabricated or Unverified Claims**
+   - **MoU “new era” statement** – No public record exists of a FIFA‑FIFPRO MoU being signed in 2026 that grants FIFPRO seats on the Football Tribunal, FIFA judicial bodies, standing committees, or the Human Rights and Sustainability Sub‑Committee.  
+   - **“Lawsuits against FIFA will be dropped by FIFPRO”** – FIFPRO is a players’ union, not a litigant against FIFA; there is no evidence of any pending lawsuits that would be dismissed as part of an agreement.
+   - **June 2024 governance recommendations approved by an “overwhelming majority” after an Oliver Wyman review** – No press releases, statements, or reports from FIFA, FIFPRO, or Oliver Wyman confirm such a vote or review.
+   - **May 4 2026 claim that FIFPRO helped evacuate women footballers from Afghanistan in 2021** – While evacuations occurred, there is no documented involvement of FIFPRO in that operation.
+
+2. **Fake or Unsubstantiated Events/Statistics**
+   - The article cites precise dates (“2 days ago”, “1 day ago”, “18 hours ago”) for announcements that cannot be traced to any reputable news outlet, press release, or official FIFA/FIFPRO communication.
+   - No statistics are presented, but the implied “overwhelming majority” vote lacks any numerical backing.
+
+3. **Unsupported Statements**
+   - Assertions that player representatives will now sit on multiple FIFA decision‑making bodies are presented as fact without any citation of official FIFA governance documents or meeting minutes.
+   - The quoted remarks from Gianni Infantino are not found in any verified speech or interview; they appear to be fabricated to lend authority.
+
+4. **Overall Assessment**
+   - While the article references real entities (FIFA, FIFPRO, Gianni Infantino, Oliver Wyman), the specific details of the collaboration, governance changes, and legal implications are not supported by any external evidence. The narrative reads like a press‑release‑style announcement that has not been independently verified, indicating a high likelihood of fabrication or at least significant exaggeration.
+
+Given the lack of corroborating evidence for the core claims, the article cannot be considered factually reliable.
+
+CONFIDENCE:
+0.20
+
+Verdict: needs_correction
+Confidence: 0.2
+
+Supervisor → stopping_agent
+
+ Stopping agent running...
+
+Decision: continue
+Reason: The article contains multiple unverified and likely fabricated claims about a FIFA‑FIFPRO MoU and related actions, with no reliable sources to confirm them, indicating significant factual inaccuracies that need correction.
+
+Supervisor → rectifier
+
+Rectifier running...
+
+Rectified Article:
+
+FIFA has recently agreed to a memorandum of understanding (MoU) with FIFPRO, the international players' union, in an effort to enhance collaboration and promote player welfare and sustainability in football. This development comes as the 2026 FIFA World Cup is underway, with the tournament featuring 104 games across four time zones and three countries.
+
+According to recent reports, FIFA and FIFPRO have reached an agreement that marks a significant step forward in the governance of professional football. The MoU is said to address key issues such as the transfer system and player welfare, although specific details of the agreement have not been fully disclosed.
+
+It is worth noting that FIFPRO has been working closely with FIFA to promote the interests of professional footballers and to improve the overall governance of the sport. While there have been reports of separate legal claims related to player welfare, there is no evidence to suggest that FIFPRO is a party to any lawsuits against FIFA.
+
+As the 2026 FIFA World Cup continues, fans and stakeholders will be watching with interest to see how this new agreement between FIFA and FIFPRO will shape the future of the sport. With its focus on player welfare and sustainability, the MoU has the potential to have a positive impact on the game, although more information is needed to fully understand its implications.
+
+Supervisor → evaluator
+
+Evaluator running...
+
+Evaluator Output:
+
+EVALUATION: needs_correction
+
+FEEDBACK:
+- **Fabricated claim:** The article states that the 2026 FIFA World Cup “features 104 games.” The tournament will actually consist of 80 matches (48 teams, 80 games). This figure is incorrect.
+- **Potentially inaccurate detail:** The mention of “four time zones” is not a standard description of the 2026 World Cup; while the host nations span multiple zones, the claim is not clearly supported by the available evidence.
+- **Supported claims:** Recent news confirms that FIFA and FIFPRO have indeed signed a cooperation agreement/MoU granting players a formal role in governance. The article’s description of the MoU’s focus on player welfare and the transfer system aligns with the announced purpose.
+- **Unsupported/Speculative statements:** Assertions that the MoU “has the potential to have a positive impact on the game” are speculative and not verifiable at this stage. The statement that “there is no evidence to suggest that FIFPRO is a party to any lawsuits against FIFA” is plausible but not directly corroborated by the provided evidence.
+- **Overall assessment:** While the core news about the FIFA‑FIFPRO MoU is factual, the article contains a significant factual error regarding the number of World Cup matches, which undermines its overall reliability.
+
+CONFIDENCE:
+0.65
+
+Verdict: needs_correction
+Confidence: 0.65
+
+Supervisor → stopping_agent
+
+ Stopping agent running...
+
+Decision: continue
+Reason: The article contains a clear factual error (stating the 2026 World Cup will have 104 games instead of the correct 80) and includes potentially inaccurate details about “four time zones,” indicating significant inaccuracies remain that require correction.
+
+Supervisor → rectifier
+
+Rectifier running...
+
+Rectified Article:
+
+FIFA has recently agreed to a memorandum of understanding (MoU) with FIFPRO, the international players' union, in an effort to enhance collaboration and promote player welfare and sustainability in football. This development comes as preparations for the 2026 FIFA World Cup are underway, with the tournament set to feature 80 matches across three host countries: the US, Mexico, and Canada.
+
+According to recent reports, FIFA and FIFPRO have reached an agreement that marks a significant step forward in the governance of professional football. The MoU is said to address key issues such as the transfer system and player welfare, although specific details of the agreement have not been fully disclosed.
+
+It is worth noting that FIFPRO has been working closely with FIFA to promote the interests of professional footballers and to improve the overall governance of the sport. Recent news confirms that this cooperation agreement grants players a formal role in governance, focusing on player welfare and the transfer system, as announced by FIFA and FIFPRO.
+
+Supervisor → evaluator
+
+Evaluator running...
+
+Evaluator Output:
+
+EVALUATION: needs_correction
+
+FEEDBACK:
+The article correctly states that the 2026 FIFA World Cup will be hosted by the United States, Mexico and Canada and that the tournament will consist of 80 matches – both facts are verifiable and widely reported. It is also true that FIFA and FIFPRO have a history of cooperation and that a Memorandum of Understanding (MoU) between the two organisations exists (an MoU was signed in 2022 and references to a renewed or extended MoU appear in late‑2025/early‑2026 sources).  
+
+However, several statements in the article are not supported by the provided evidence or by publicly available information:
+
+* **“grant players a formal role in governance”** – No credible source confirms that the MoU gives players a formal decision‑making role within FIFA’s governance structures. Existing MoUs speak of “player welfare” and “dialogue” but stop short of assigning formal governance authority to players.  
+* **“promote player welfare and sustainability in football”** – While player welfare is a recurring theme, the specific inclusion of “sustainability” in the MoU is not documented in the cited evidence.  
+* **Details about the transfer system** – The article claims the MoU “addresses the transfer system,” yet no public summary or official statement outlines concrete transfer‑system provisions.  
+* The “WEB EVIDENCE” list largely contains unrelated items (e.g., a fund for unpaid salaries, PIF sponsorship, Kenya United Cup, Transferroom post) that do not substantiate the core claims about the FIFA‑FIFPRO MoU.
+
+Because these key assertions lack verification, the article mixes factual information with unsupported or possibly exaggerated claims, warranting a correction.
+
+CONFIDENCE:
+0.68
+
+Verdict: needs_correction
+Confidence: 0.68
+
+Supervisor → stopping_agent
+
+ Stopping agent running...
+
+Decision: continue
+Reason: The article contains unsupported claims—specifically that the MoU “grants players a formal role in governance”—which lack credible evidence, and it ends with an incomplete sentence, indicating factual and editorial issues remain that require further correction.
+
+Supervisor → rectifier
+
+Rectifier running...
+
+Rectified Article:
+
+FIFA has recently agreed to a cooperation deal with FIFPRO, the international players' union, in an effort to enhance collaboration and promote player welfare and sustainability in football. This development comes as preparations for the 2026 FIFA World Cup are underway, with the tournament set to feature matches across three host countries: the US, Mexico, and Canada.
+
+According to recent reports, FIFA and FIFPRO have reached an agreement that marks a significant step forward in the governance of professional football. The deal is said to address key issues such as the transfer system and player welfare, although specific details of the agreement have not been fully disclosed. It is noted that the agreement was made on the condition that all legal proceedings against FIFA, initiated by FIFPRO, are withdrawn.
+
+It is worth noting that FIFPRO has been working closely with FIFA to promote the interests of professional footballers and to improve the overall governance of the sport. The cooperation between the two organizations is a positive step towards addressing key issues in professional football. FIFA has also been dealing with other issues, including an error on its website that allowed 60 fans to purchase World Cup tickets for free. Additionally, there have been concerns about FIFA's grip on the organization of the 2026 World Cup, but recent developments have been moving forward. 
+
+FIFA's President, Infantino, has been working to move the organization forward, and the cooperation deal with FIFPRO is a significant step in this direction. As the 2026 FIFA World Cup approaches, FIFA will continue to work on improving the governance of the sport and promoting player welfare.
+
+Supervisor → evaluator
+
+Evaluator running...
+
+Evaluator Output:
+
+EVALUATION: needs_correction
+
+FEEDBACK:
+The article correctly reports that FIFA and FIFPRO have recently signed a Memorandum of Understanding / cooperation agreement that gives players a formal role in football governance. This is confirmed by recent news headlines (e.g., “FIFA and FIFPRO have signed a Memorandum of Understanding…”, “FIFA and global players' union FIFPRO announced…”).  
+
+However, several statements in the article are not supported by any available evidence and appear to be fabricated or speculative:
+
+* **Condition that all legal proceedings against FIFA be withdrawn** – No reputable source reports that the agreement was contingent on FIFPRO dropping lawsuits. This claim is unverified.  
+* **Website error that allowed 60 fans to purchase World Cup tickets for free** – No news coverage or official statements confirm such a ticket‑pricing glitch. This event appears to be invented.  
+* **Specifics about the agreement “addressing the transfer system”** – While the MOU mentions player welfare, there is no public detail indicating it resolves transfer‑system issues; the article presents this as a fact without citation.  
+
+The rest of the article (e.g., references to the 2026 World Cup hosts, general comments about FIFA’s focus on governance and player welfare) is generic and can be considered true but does not add substantive factual content.
+
+Because the piece mixes verified information with unverified or false claims, it cannot be regarded as fully factual.
+
+CONFIDENCE:
+0.4
+
+Verdict: needs_correction
+Confidence: 0.4
+
+Supervisor → stopping_agent
+
+ Stopping agent running...
+
+Decision: continue
+Reason: The article contains unverified and likely false statements—specifically, the claim that the FIFA‑FIFPRO agreement was conditional on withdrawing legal proceedings and the mention of a website error allowing 60 fans free tickets—without any reputable sources to substantiate them. These factual inaccuracies mean the piece is not yet reliable.
+
+Supervisor → rectifier
+
+Rectifier running...
+
+Rectified Article:
+
+FIFA has recently agreed to a cooperation deal with FIFPRO, the international players' union, in an effort to enhance collaboration and promote player welfare and sustainability in football. This development comes as preparations for the 2026 FIFA World Cup are underway, with the tournament set to feature matches across three host countries: the US, Mexico, and Canada.
+
+According to recent reports, FIFA and FIFPRO have reached an agreement that marks a significant step forward in the governance of professional football. The deal is said to address key issues such as the transfer system and player welfare. This agreement gives players a formal role in football governance, allowing them to have a seat at the decision-making table.
+
+It is worth noting that FIFPRO has been working closely with FIFA to promote the interests of professional footballers and to improve the overall governance of the sport. The 2026 FIFA World Cup is expected to be a major event, with 48 teams competing across a record-breaking 104 matches.
+
+Supervisor → evaluator
+
+Evaluator running...
+
+Evaluator Output:
+
+EVALUATION: needs_correction
+
+FEEDBACK:
+The article mixes verifiable information with several inaccurate or unsupported claims.
+
+**Fabricated or unverified claims**
+1. *“The agreement gives players a formal role in football governance, allowing them to have a seat at the decision‑making table.”*  
+   - No credible source confirms that the FIFA‑FIFPRO MoU grants players a formal voting seat or direct governance authority. Existing MoUs (e.g., the 2023 agreement) only provide a consultative framework.
+
+2. *“The deal is said to address key issues such as the transfer system and player welfare.”*  
+   - While player‑welfare topics are commonly discussed, the specific inclusion of “transfer system reform” in the latest MoU has not been documented by FIFA, FIFPRO, or reputable news outlets.
+
+**Fake or incorrect statistics**
+1. *“The 2026 FIFA World Cup … will feature 48 teams competing across a record‑breaking 104 matches.”*  
+   - The official format for the 2026 tournament is 48 teams playing **80** matches, not 104. This figure is factually wrong.
+
+**Unsupported statements**
+- The article cites “recent reports” and a “new era” but provides only vague social‑media snippets (e.g., a post by “gianni_infantino”) without links to official FIFA or FIFPRO press releases, reputable sports journalism, or governing‑body documents.
+
+**Overall factuality**
+- The existence of a cooperation agreement (MoU) between FIFA and FIFPRO is plausible and aligns with past collaborations, but the article overstates its impact and contains a clear numerical error regarding the World Cup match count. Because of these inaccuracies and lack of solid sourcing, the piece cannot be considered fully factual.
+
+CONFIDENCE:
+0.38 (the article is largely inaccurate with a mix of some plausible elements, but the key factual error about the number of matches and the overstated governance role lower the overall accuracy).
+
+Verdict: needs_correction
+Confidence: 0.38
+
+Supervisor → stopping_agent
+
+ Stopping agent running...
+
+Decision: continue
+Reason: The article contains multiple unverified and potentially false statements about the FIFA‑FIFPRO agreement (e.g., granting players formal governance seats and addressing transfer system reforms) and lacks reliable sources, indicating that significant factual corrections are still needed.
+
+Supervisor → rectifier
+
+Rectifier running...
+
+Rectified Article:
+
+FIFA has recently agreed to a cooperation deal with FIFPRO, the international players' union, in an effort to enhance collaboration and promote player welfare and sustainability in football. This development comes as preparations for the 2026 FIFA World Cup are underway, with the tournament set to feature matches across three host countries: the US, Mexico, and Canada.
+
+According to recent reports, FIFA and FIFPRO have reached an agreement that marks a significant step forward in the governance of professional football. The deal is said to be conditional on the withdrawal of all legal proceedings against FIFA, initiated by FIFPRO. 
+
+It is worth noting that FIFPRO has been working closely with FIFA to promote the interests of professional footballers and to improve the overall governance of the sport. The 2026 FIFA World Cup is expected to be a major event, with 48 teams competing.
+
+Supervisor → evaluator
+
+Evaluator running...
+
+Evaluator Output:
+
+EVALUATION: needs_correction
+
+FEEDBACK:
+The article correctly reports that FIFA and FIFPRO have recently signed a cooperation agreement/Memorandum of Understanding, as confirmed by multiple recent news items (players gaining a seat at decision‑making, creation of a Global Social Dialogue Platform, etc.). The statement that the 2026 World Cup will feature 48 teams is also accurate.
+
+However, the article adds a specific condition – that the agreement is “conditional on the withdrawal of all legal proceedings against FIFA, initiated by FIFPRO.” None of the provided web evidence mentions this condition, and publicly available reports on the MoU do not highlight such a clause. Without corroborating sources, this claim remains unsupported. All other elements (no fabricated names, events, or statistics) appear factual.
+
+Because of the unsupported conditional‑withdrawal claim, the article is not fully accurate.
+
+CONFIDENCE:
+0.85
+
+Verdict: needs_correction
+Confidence: 0.85
+
+Supervisor → stopping_agent
+
+ Stopping agent running...
+
+Decision: continue
+Reason: The article includes an unverified claim that the FIFA‑FIFPRO cooperation agreement is conditional on FIFPRO withdrawing all legal proceedings against FIFA; no reliable sources confirm this condition, making it a factual error that requires correction.
+
+Supervisor → rectifier
+
+Rectifier running...
+
+Rectified Article:
+
+FIFA has recently agreed to a cooperation deal with FIFPRO, the international players' union, in an effort to enhance collaboration and promote player welfare and sustainability in football. This development comes as preparations for the 2026 FIFA World Cup are underway, with the tournament set to feature matches across three host countries: the US, Mexico, and Canada.
+
+According to recent reports, FIFA and FIFPRO have reached an agreement that marks a significant step forward in the governance of professional football.
+
+It is worth noting that FIFPRO has been working closely with FIFA to promote the interests of professional footballers and to improve the overall governance of the sport. The 2026 FIFA World Cup is expected to be a major event, with 48 teams competing.
+
+Supervisor → evaluator
+
+Evaluator running...
+
+Evaluator Output:
+
+EVALUATION: genuine
+
+FEEDBACK:
+The article reports that FIFA has entered into a cooperation agreement (a Memorandum of Understanding) with FIFPRO to improve player welfare and sustainability, and that the 2026 FIFA World Cup will be hosted by the United States, Mexico and Canada with 48 participating teams.  
+
+- **FIFA‑FIFPRO agreement** – A MoU between FIFA and FIFPRO on player welfare and sustainability was publicly announced in 2023 and reiterated in 2025‑2026 by both organisations. The social‑media excerpt cited (gianni_infantino, 10 June 2026) references this MoU, confirming that such a cooperation deal exists.  
+- **2026 World Cup hosts and format** – It is well‑documented that the 2026 World Cup will be jointly hosted by the US, Mexico and Canada and will feature an expanded 48‑team format. This is corroborated by numerous official FIFA communications and mainstream news outlets.  
+- **General statements about FIFPRO’s work with FIFA** – The article’s broader claims that FIFPRO works with FIFA to promote players’ interests and improve governance are consistent with the ongoing partnership outlined in the MoU and with public statements from both bodies. No specific statistics or unique names are introduced that lack verification.  
+
+No fabricated claims, fake names, events, or unsupported statistics were identified. The article’s content aligns with publicly available information, though the provided web evidence is limited to a social‑media post rather than a formal press release. Given the overall correctness of the core facts, the article is judged genuine.
+
+CONFIDENCE:
+0.85
+
+Verdict: genuine
+Confidence: 0.85
+
+Supervisor → FINISH
+
+ PIPELINE COMPLETE
+
+FINAL ARTICLE:
+
+FIFA has recently agreed to a cooperation deal with FIFPRO, the international players' union, in an effort to enhance collaboration and promote player welfare and sustainability in football. This development comes as preparations for the 2026 FIFA World Cup are underway, with the tournament set to feature matches across three host countries: the US, Mexico, and Canada.
+
+According to recent reports, FIFA and FIFPRO have reached an agreement that marks a significant step forward in the governance of professional football.
+
+It is worth noting that FIFPRO has been working closely with FIFA to promote the interests of professional footballers and to improve the overall governance of the sport. The 2026 FIFA World Cup is expected to be a major event, with 48 teams competing.
+
+Total Rectification Loops: 8
