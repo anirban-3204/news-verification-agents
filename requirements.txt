@@ -1,0 +1,6 @@
+langgraph>=1.0
+langchain-core>=1.0
+langchain-groq>=1.0
+ddgs>=9.0
+python-dotenv>=1.0
+matplotlib>=3.8
